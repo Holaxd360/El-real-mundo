@@ -224,3 +224,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 [09Jun2025 01:45:19.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dioginix> LOS MOUNSTROS VAN A POR TI
 [09Jun2025 01:46:21.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dioginix> ABREMEEEEE
 [09Jun2025 01:46:37.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Cave Dweller
+[09Jun2025 01:47:17.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix was kicked for floating too long!
+[09Jun2025 01:47:17.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix lost connection: Flying is not enabled on this server
+[09Jun2025 01:47:17.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix left the game
+[09Jun2025 01:47:17.188] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dioginix
+[09Jun2025 01:47:17.234] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jun2025 01:47:27.997] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4761f86a
+[09Jun2025 01:47:28.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.172.187.250:33837] logged in with entity id 15991 at (366.83534684542406, 81.17675927506424, 278.3869328513205)
+[09Jun2025 01:47:28.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
+[09Jun2025 01:47:28.058] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
+[09Jun2025 01:47:28.372] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dioginix (18)
+[09Jun2025 01:47:28.373] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dioginix
+[09Jun2025 01:47:37.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dioginix> me saco xd
+[09Jun2025 01:47:54.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix fell from a high place
+[09Jun2025 01:48:32.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dioginix> aaaaaa
+[09Jun2025 01:48:50.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dioginix> UN FEO
+[09Jun2025 01:48:55.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dioginix> ME QUIERE MATAR
+[09Jun2025 01:49:33.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dioginix> LO ESTOY MATANDO XD
+[09Jun2025 01:50:36.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Mimic Dweller
+[09Jun2025 01:50:40.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dioginix> OH DIOS
+[09Jun2025 01:51:14.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXmishiiiiiiXx was slain by Mokey
+[09Jun2025 01:51:21.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dioginix> miedo
+[09Jun2025 01:51:36.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dioginix> era miki maus
+[09Jun2025 01:52:26.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dioginix> ven rapido
+[09Jun2025 01:52:44.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXmishiiiiiiXx was slain by Cave Dweller
+[09Jun2025 01:52:51.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dioginix> bisho
+[09Jun2025 01:53:16.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dioginix> tengo tus cosas
+[09Jun2025 01:53:53.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dioginix> ven a recojerlas
+[09Jun2025 01:55:29.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dioginix> correeeeee
+[09Jun2025 01:55:30.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by entity.mimicer.mimicer
+[09Jun2025 01:55:43.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXmishiiiiiiXx was slain by entity.mimicer.mimicer
+[09Jun2025 01:56:06.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dioginix> vamos
+[09Jun2025 01:56:26.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix fell from a high place
