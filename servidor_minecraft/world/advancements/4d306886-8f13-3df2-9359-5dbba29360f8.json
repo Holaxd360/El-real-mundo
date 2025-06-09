@@ -509,6 +509,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-06-09 00:52:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-04 20:24:38 +0000"
@@ -2313,6 +2319,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2025-06-09 00:55:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-02 21:16:57 +0000"
@@ -2400,6 +2412,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 20:47:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-06-09 01:00:57 +0000"
     },
     "done": true
   },
